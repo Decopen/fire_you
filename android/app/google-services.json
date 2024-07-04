@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "376229608727",
+    "project_id": "login-signup-7b3b9",
+    "storage_bucket": "login-signup-7b3b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376229608727:android:1e93b73105d9b1519fcb52",
+        "android_client_info": {
+          "package_name": "com.example.fire_youtube"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeCanWs0ODy_G6B8lXeGAPoWt89zhR9NU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
